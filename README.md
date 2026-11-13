@@ -1,19 +1,25 @@
-### Hi, I'm Davit👋
+### Hi, I'm Davit 👋
 
+Full-Stack Developer focused on **React, Next.js , TanStack and TypeScript**. Development Team Lead & Web Development Mentor at **Goal-Oriented Academy** (3.5+ years).
 
-🧑‍💻 I'm web developer with a passion for creating responsive and user-friendly websites</br>
-🧑‍🎓 Study web developent at [Goal-Oriented-Academy](https://www.facebook.com/nika11keshelava)<br/>
-💭 Currently learning MERN <br>
+### 🚀 Featured project
+**[Dashboard Constructor](https://github.com/davita101/dashboard-constructor)**: full-stack SaaS dashboard builder with drag-and-drop widgets, auth and a real database.
+Next.js 16 · TypeScript · Supabase/Postgres · Drizzle ORM · Clerk · Vitest · Playwright · CI
+👉 [Live demo](https://dashboard-constructor.vercel.app) (one-click demo account)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davita101&show_icons=true&theme=radical)
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)<br/>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🛠 Tech stack
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/davit-grdzelishvili/) · grdzelishvilidaviti@gmail.com
+
+💼 Open to Frontend / Full-Stack roles: Tbilisi or remote.
