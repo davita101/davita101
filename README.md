@@ -6,6 +6,9 @@ Full-Stack Developer focused on **React, Next.js , TanStack and TypeScript**. De
 **[Dashboard Constructor](https://github.com/davita101/dashboard-constructor)**: full-stack SaaS dashboard builder with drag-and-drop widgets, auth and a real database.
 Next.js 16 · TypeScript · Supabase/Postgres · Drizzle ORM · Clerk · Vitest · Playwright · CI
 👉 [Live demo](https://dashboard-constructor.vercel.app) (one-click demo account)
+**[Personal Portfolio & Blog](https://github.com/davita101/Davit-Grdzelishvili-Blog)**A personal portfolio and technical blog built to showcase my projects, experience, technical experiments, and development journey.
+Stack: Next.js 16 · React 19 · TypeScript · Tailwind CSS · MDX · Zod · Vitest · PostHog
+👉 [Visit Website](davit-grdzelishvili-blog.vercel.app)
 
 ### 🛠 Tech stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
